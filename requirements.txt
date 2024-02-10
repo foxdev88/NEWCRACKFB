@@ -1,3 +1,4 @@
-data
-android
-sdcard
+bs4
+rich
+mechanize
+requests
