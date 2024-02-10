@@ -4,9 +4,7 @@
 pkg update
 pkg upgrade
 pkg install python
-pip install requests
-pip install bs4
-pip install stdiomask
+pip install -r
 git clone https://github.com/foxdev88/NEWCRACKFB
 git pull
 cd NEWCRACKFB
